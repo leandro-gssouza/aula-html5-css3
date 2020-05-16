@@ -1,0 +1,29 @@
+body{
+    margin-left: 40px;
+    background: rgb(148, 229, 148);
+}
+
+header{
+    margin-left: 450px; /* Coloca o título da página no centro */
+}
+
+p {
+    font-size: 18px; /* Dá tamanho 18px aos textos "p" do site*/
+}
+
+#titulo-secao-shampoo{
+    position: relative;
+    left: 600px;
+}
+
+#shampoo-solido{ /* Posiciona a imagem shampoo sólido na seção shampoo*/
+    position: relative;
+    left: 450px;
+    top: -400px;
+    bottom: 600px;
+}
+
+#Contato{
+    position: relative;
+    bottom: 200px;
+}
